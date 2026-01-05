@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: a senior undergraduate student in <a href="https://www.whu.edu.cn/" target="_blank" rel="noopener">Wuhan University</a>.
 
 profile:
   align: right
   image: mnshao_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: |
     <p>+86 13306818705</p>
     <p>Hangzhou, China</p>
 
