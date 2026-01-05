@@ -59,7 +59,7 @@ navbar:
   - name: Educations
     link: /#educations
   - name: CV
-    link: /#cv
+    link: /assets/pdf/Muning SHAO CV.pdf
   - name: Contact
     link: /#contact
 
