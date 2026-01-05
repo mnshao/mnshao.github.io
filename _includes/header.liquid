@@ -63,7 +63,11 @@
               {% assign item_href = item.link | relative_url %}
               {% assign item_anchor = item.link | split: '#' | last %}
               <li class="nav-item {% if page.permalink == '/' and item.link contains '#' and page.url contains '/' %}{% if page.url == '/' %}{% endif %}{% endif %}">
-                <a class="nav-link" href="{{ item_href }}">
+                <a
+                  class="nav-link"
+                  href="{{ item_href }}"
+                  {% if item.link contains '.pdf' %}target="_blank" rel="noopener"{% endif %}
+                >
                   {{- item.name -}}
                   {% if page.url == item.link %}
                     <span class="sr-only">(current)</span>
