@@ -11,7 +11,7 @@ profile:
   more_info: |
     <p>+86 13306818705</p><br>
     <p>Hangzhou, China</p>
-    <p>"rr、tz的主人"</p>
+    <p>"rr、tz、hbl的主人"</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
