@@ -9,7 +9,7 @@ profile:
   image: mnshao_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: |
-    <p>+86 13306818705</p>
+    <p>+86 13306818705</p><br>
     <p>Hangzhou, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
