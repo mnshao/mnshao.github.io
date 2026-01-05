@@ -45,6 +45,23 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+# Navbar (single-page with anchors)
+# -----------------------------------------------------------------------------
+
+navbar:
+  - name: About
+    link: /
+  - name: Publications
+    link: /#publications
+  - name: Teaching
+    link: /#teaching
+  - name: Educations
+    link: /#educations
+  - name: CV
+    link: /#cv
+  - name: Contact
+    link: /#contact
 
 navbar_fixed: true
 footer_fixed: true
