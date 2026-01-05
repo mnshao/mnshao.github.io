@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <a id="about"></a>
+
 ## About
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
@@ -35,26 +37,24 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 <a id="publications"></a>
+
 ## Publications
-<!-- 这里不用你手写论文列表；selected_papers: true 会自动渲染“Selected papers”模块（如果你的主题支持） -->
 
 <a id="teaching"></a>
+
 ## Teaching
 
-Write your teaching experience here.
-
 <a id="educations"></a>
+
 ## Educations
 
-Write your education background here.
-
 <a id="cv"></a>
+
 ## CV
 
-- [Download my CV](assets/pdf/cv.pdf)
-
 <a id="contact"></a>
+
 ## Contact
 
-- Email: yourname@example.com
-- Address: ...
+Write your biography here. Tell the world about yourself. Link to your favorite
+[subreddit](http://reddit.com).
